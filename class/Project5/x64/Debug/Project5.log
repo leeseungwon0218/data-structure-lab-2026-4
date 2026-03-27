@@ -1,0 +1,7 @@
+﻿  Complex.h
+C:\Users\USER\Documents\data-structure-lab-2026-4\Project5\Project5\Complex.h(17,10): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ','이(가) 있습니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4\Project5\Project5\Complex.h(17,46): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Project5\Project5\Complex.h(17,46):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  
+  Project5.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\Project5\x64\Debug\Project5.exe
